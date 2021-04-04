@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.mx-10{
+  margin:0 10px !important
+}
+.my-10{
+  margin:10px 0 !important
+}
+.bg-color-green{
+  background-color:green !important
+}
